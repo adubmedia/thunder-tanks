@@ -19,3 +19,38 @@
 	height: 546px; /* 16:9 */
 	border: #000 solid 1px;
 }
+div > h1{
+	text-align:center; 
+	font-family:cursive; 
+	font-size:96px;
+	}
+
+div > h4{
+	text-align:center; 
+	font-family:cursive; 
+	font-size:68px;
+	}	
+	
+body {
+	background-color: #5CCCCC;
+	/*sky color*/
+	}
+#sun {
+	border-radius:100%;
+	background-color:#fffd00;
+	float:right;
+	height:150px;
+	width:150px;
+	margin-right:-55%;
+	margin-top:-5%;
+	}
+#grass {
+	background-color: #008500;
+	height:150px;
+	}
+#grass2 {
+	background-color: #008500;
+	height:150px;
+	}	
+
+	
